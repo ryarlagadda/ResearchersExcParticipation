@@ -1,6 +1,6 @@
 # ResearchersExcParticipation 
 
-http://openshiftdemo-yarlagadda.rhcloud.com/ResearchersExcParticipation/
+Project Link: http://openshiftdemo-yarlagadda.rhcloud.com/ResearchersExcParticipation/
 
 Researchers Exchange Participation is a JAVA application with JSP,Servlets,HTML,CSS,BootStrap technologies used for front-end development and MySql for back-end database
 
